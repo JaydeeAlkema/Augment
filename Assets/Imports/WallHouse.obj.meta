@@ -1,0 +1,802 @@
+fileFormatVersion: 2
+guid: cb425d5bf38da7e42a9055f99bc61778
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_003
+    second: {fileID: 2100000, guid: 4e2da21d577da6e47b4812407f90f46f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_005
+    second: {fileID: 2100000, guid: 0e9eeebaa2371c04b965a87cfd430b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_006
+    second: {fileID: 2100000, guid: 6b14668655410ca4cac1a970db0a49d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_007
+    second: {fileID: 2100000, guid: 0df0c645c138988449ed1c3beb708340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_008
+    second: {fileID: 2100000, guid: 0c2c8b924f712e840ac251a795e97e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_A25
+    second: {fileID: 2100000, guid: 73e242154d5e2e64ca101678f24bf4b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_D16
+    second: {fileID: 2100000, guid: a512748c2bc4d2445afa47ef173a7543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_E18
+    second: {fileID: 2100000, guid: 5e508131c9033ed47b8e5c6e462b3294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dak1
+    second: {fileID: 2100000, guid: 2a707dc8c9ba15e4e9fc65325fbbb1a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 514ac4dab40673a4c92f005d7c3af1b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeelDak1
+    second: {fileID: 2100000, guid: e609c6bb1f4245443835b9ac4fbc553a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeelDak2
+    second: {fileID: 2100000, guid: 12a0df8927653534aa71c675cb8e2801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeelHuisjebinnenkant
+    second: {fileID: 2100000, guid: ea7858bb62427e44aaeee0f7203c0ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Google_Earth_Snapshot_2
+    second: {fileID: 2100000, guid: 4387daa0d34a66e429332032e5cce5fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KlRaampjeN
+    second: {fileID: 2100000, guid: 7d5e2def821ce32459ba606c75e19331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LangRaam
+    second: {fileID: 2100000, guid: 49bb313668f800a4ea7e478f6bda9724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0
+    second: {fileID: 2100000, guid: 54e532316034a8246bd52495f9a9c126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0_1_
+    second: {fileID: 2100000, guid: d5689e341b4b81c43813f34842a34f1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_1
+    second: {fileID: 2100000, guid: cb6504968f31a4b4e83a742d41dc4005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_10
+    second: {fileID: 2100000, guid: c81aed09368e38546a2d9e03cac66180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_11
+    second: {fileID: 2100000, guid: 394878784536ee9408beceef168b4cc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_11_1_
+    second: {fileID: 2100000, guid: 9dade3addd6c4274fa9bcf75a13dc163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_2
+    second: {fileID: 2100000, guid: 0507885ec8027134b8257968dd3b4ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_4
+    second: {fileID: 2100000, guid: 54ef2d112ec42384da1a28a8a0bb24b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_6
+    second: {fileID: 2100000, guid: b315f0dd63ea3b7459b18f3d60a94c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_7
+    second: {fileID: 2100000, guid: 15e4a3cd4c61de345b76aa705a5caa4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_8
+    second: {fileID: 2100000, guid: c77799fa880b9d84e9a1bd2faea1326d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_8_1_
+    second: {fileID: 2100000, guid: 5c3b9a3e15f38e641a2aff3dae7f7c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_8_2_
+    second: {fileID: 2100000, guid: cc765ddc29a4eae4a835c239e516ccb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_9
+    second: {fileID: 2100000, guid: 80ce6337b223e0f4ca7be8b9b8603b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noord
+    second: {fileID: 2100000, guid: c53f7b5b76b6a47498a45b479feccedb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OranjeIngangBeneden
+    second: {fileID: 2100000, guid: 0a46f771769df6c47b05f0b4cec74853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OranjeIngangBoven
+    second: {fileID: 2100000, guid: 34c97766ebdda344fad0cc43bfa9675e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OranjePootKaal
+    second: {fileID: 2100000, guid: c5396e84d0df4a1408746c3945c6dac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OranjePootKlein
+    second: {fileID: 2100000, guid: d1e75f198a4eac74e965f7a873244194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OranjePootKlein1_
+    second: {fileID: 2100000, guid: b3e21c6b6e0d3f64396a57da929237fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PootBreedWit
+    second: {fileID: 2100000, guid: 0fd5c7f1c6f14c140a5b6bd2626e315a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PootBreedWitZuid
+    second: {fileID: 2100000, guid: cbc0c3bb62bb1ec4689742c541e4ef7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PootSmal
+    second: {fileID: 2100000, guid: a8fefda3596d5f54389323c76c093e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PootSmal1_
+    second: {fileID: 2100000, guid: d67b613cc8cb5e6499c1f8f968f2ea78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Raam1
+    second: {fileID: 2100000, guid: 29cf4bcd90397234f84439c50e0ba700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Raam2
+    second: {fileID: 2100000, guid: d4850c3d4c617bd4685b5275e6883391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Raampje3
+    second: {fileID: 2100000, guid: 7b7408815785bff42be9d49c66fe260a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_N
+    second: {fileID: 2100000, guid: bc8ba1c6a77e3414cb07873f92223dca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: achterZOnd2
+    second: {fileID: 2100000, guid: 8811ed7dff56a0b41abbb44938a51dd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: achterZuidOnder
+    second: {fileID: 2100000, guid: dff8d45fdd314ff4d8f3ff5e694312b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: achtertorennoord
+    second: {fileID: 2100000, guid: bbd8b71bcd6abcc45b3a69acbb20124e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: achtertorennoord1_
+    second: {fileID: 2100000, guid: 2f51e238b6000314da4bcf3efb2bbbba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: achtertorennoord2_
+    second: {fileID: 2100000, guid: 8b3b4821878d01c4d8bbb48bf575efa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: achterzuidboven
+    second: {fileID: 2100000, guid: 8520736d0f94745439e35bcd46575672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: binnenkant
+    second: {fileID: 2100000, guid: 72f90e64aa8cc7d4498d2c56bf449dfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: binnenkantgrijs1
+    second: {fileID: 2100000, guid: da0343ef521a6e9459b7030b1263c3f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: binnenzijkant
+    second: {fileID: 2100000, guid: 84dd14c92b24efd448277f0cdb236b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: binnkantdeur
+    second: {fileID: 2100000, guid: 9446f4cc04f103a448f79e8041fae22e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: binnkantschuin
+    second: {fileID: 2100000, guid: c0f631172531f6f4b8e18def2f30b9be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blauwMetRaam
+    second: {fileID: 2100000, guid: 2319c9d6960b3e64da53adbea2e9e225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blauw_1
+    second: {fileID: 2100000, guid: 362f797419840c248b9c14d267e58985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blauw_2
+    second: {fileID: 2100000, guid: 0f6fd7b529518e640a5efdff6bafb39e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bovenktMuur
+    second: {fileID: 2100000, guid: 518ba12d1377e44498284d8d4f16c236, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bovenrandZMid
+    second: {fileID: 2100000, guid: e710ef9a45abb0243998c3d812851b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bovenrandZdL
+    second: {fileID: 2100000, guid: 8d9f7d361de837e4e8e9384a6b81df84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bovenrandZdR
+    second: {fileID: 2100000, guid: 293aa36457cf6464eb4af235f0e80858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buitendeurgevel
+    second: {fileID: 2100000, guid: 0bc222a17dc025948b8567b1249185da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dak
+    second: {fileID: 2100000, guid: 0a1e09066885887448a13015d9a31f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakDef1
+    second: {fileID: 2100000, guid: 4f6c9efbf80ee1a42aa659877a0e82d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakje1
+    second: {fileID: 2100000, guid: 92c81a5fd8ae6db49898166a39edee7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakje2
+    second: {fileID: 2100000, guid: 301bb9cd06d94124fb4606e888e93f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakjedark1
+    second: {fileID: 2100000, guid: e0571960c6e97ab47898d5a19a6ad24d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakjeuitsteekraam
+    second: {fileID: 2100000, guid: d45c8a7a2f24b8041b38c84fcbfa6902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakkoepel2
+    second: {fileID: 2100000, guid: cbcaaf9bfd0496345a9a6ab61ea82e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakrandL
+    second: {fileID: 2100000, guid: 75ebd65d881542947a81504f53653e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakrandR
+    second: {fileID: 2100000, guid: d5d85947d3b7b7048b19e3223f8ac6b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakwest2a1
+    second: {fileID: 2100000, guid: a08cf35b4c144ab4397b9d216849bd74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakwest4
+    second: {fileID: 2100000, guid: 6e1aa6ad8383b564eb6b40f39a1b2971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakwest4a1
+    second: {fileID: 2100000, guid: 0de9e517e0e95a64b96c5b4d0d107afd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dakwesta1
+    second: {fileID: 2100000, guid: b2081d17ec05d2144b3912c52a8f7bfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dunnepaal2x1
+    second: {fileID: 2100000, guid: be16150b9dd21bc4caabc295257e02a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gangnaarpilaar
+    second: {fileID: 2100000, guid: b35a1595d66ca5a41893f2c24ab44341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gangonderzijde
+    second: {fileID: 2100000, guid: bd050679d86febc43a0ae2402542cb16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gangramenZ2
+    second: {fileID: 2100000, guid: 52fff3cc5a4dbfa49ba67e5fd368e4a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gangramenzuid
+    second: {fileID: 2100000, guid: 0e248dee75b3f3f45a4438c448b7fb02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gangzijmuurdwarsstukje
+    second: {fileID: 2100000, guid: 6103819c06d8b1142b94d19aeededf6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gangzijmuurvooraanzuid
+    second: {fileID: 2100000, guid: 5033c081044bf7d41be83f35dc20ec3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gangzijmuurzuid
+    second: {fileID: 2100000, guid: 287d02aff567eae4a99d9bbcc364fae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: geleBlok2
+    second: {fileID: 2100000, guid: 637f8cac59ed55a44be599f87d8bd950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: geleBlokje
+    second: {fileID: 2100000, guid: e03566baa614f1d42a6fd02497cfb446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: geleKleineBlokje
+    second: {fileID: 2100000, guid: 3668d94645206994295c9c5517c8234a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gevelNachter
+    second: {fileID: 2100000, guid: 9faa2b1de429223439565046662d1c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grijsNoordlinks
+    second: {fileID: 2100000, guid: 678fa0aba948df54488d01360555016a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groenMidden1
+    second: {fileID: 2100000, guid: 8fcec36251bdd3d45a9557072c3c69d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groenMidden2
+    second: {fileID: 2100000, guid: b32d30b128d3b2646a961cefcfc0749d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groenNoord2
+    second: {fileID: 2100000, guid: cc8601866eca3c7488c30e61df633116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groenZuid
+    second: {fileID: 2100000, guid: ed68c0ac87c32e9458ae0ae450373eed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groenZuid2
+    second: {fileID: 2100000, guid: d7e93458d28e623498205db2cbd49d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groenZuid2_1_
+    second: {fileID: 2100000, guid: aeb61a416e89c8840980d5f563789701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groennoord
+    second: {fileID: 2100000, guid: 38a7d867c754e7f4c99090ac3f1ab68e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: langegang
+    second: {fileID: 2100000, guid: 507f4cf26005e824da6815874d307b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: middelsteraamnoord
+    second: {fileID: 2100000, guid: d7e9dbe815dc27b42a1c04bbd10768f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: middelsteraamnoord1_
+    second: {fileID: 2100000, guid: 6d5fea8f54e0c6a499891b5a62f6293e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: muurBacksideKaalKlein
+    second: {fileID: 2100000, guid: d4efc380c2a20b24abf1de5589ea5560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: muurFront
+    second: {fileID: 2100000, guid: b6a035548bf1da949bad759cfb7518bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: noordBoven
+    second: {fileID: 2100000, guid: eac1c6cfdaa767a48902454b18eded3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or1
+    second: {fileID: 2100000, guid: 786447412f125d24798015461f67f7a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or10
+    second: {fileID: 2100000, guid: ccb897e3f592fe24fbe2fcebd260ae38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or11
+    second: {fileID: 2100000, guid: 6bd5b570fc9bcf64786ff10855dbe664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or2
+    second: {fileID: 2100000, guid: 0987fe5a552524d4e9f7d4a85c827d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or3
+    second: {fileID: 2100000, guid: 92bd62130c4c37046806708408506ad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or4
+    second: {fileID: 2100000, guid: c0d22b288eb349947ab7ad265d6a20c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or5
+    second: {fileID: 2100000, guid: e476e989276ffcb4e84e70de252e7f25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or6
+    second: {fileID: 2100000, guid: dddef2bc5ede7174d976ffd2ab4b79d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or7
+    second: {fileID: 2100000, guid: 58480413642091c4da16eb4f8c459b61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or8
+    second: {fileID: 2100000, guid: 2a201dd516db3b3499a54ae8f21ca519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or9
+    second: {fileID: 2100000, guid: 78a96d556e9a5f14ca05ad5741803086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oranjeonderkant
+    second: {fileID: 2100000, guid: 1673e8e5478dcc147add07592de6b399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paars1
+    second: {fileID: 2100000, guid: 1f905e5a8bc60f64ebdfbed4aa5c94d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paars2
+    second: {fileID: 2100000, guid: 98e037117e69e114098679094051953e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paars3
+    second: {fileID: 2100000, guid: ffb8d598fa96d5e4882017db7f5c77d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paars3_1_
+    second: {fileID: 2100000, guid: 0786fcd55f9a55a4b8bec83863716fca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paars4
+    second: {fileID: 2100000, guid: 2dc9d89a539986a4ba6a6a32cf330682, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: raam2everdiep
+    second: {fileID: 2100000, guid: e9023886f2a58fb4c9ed43be0918f31f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: raam2everdiep1_
+    second: {fileID: 2100000, guid: 8ec604860c671084eabda2890469c6b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: raamNoord
+    second: {fileID: 2100000, guid: d8012651c99b2164e9a5d61456beb4a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: raampjeNoord
+    second: {fileID: 2100000, guid: abc2bde3d2e14ab4486b42c518ec7835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: randGevel
+    second: {fileID: 2100000, guid: 248829b4e2ac4bd4e9fc87e4146f2ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smalleachterkt
+    second: {fileID: 2100000, guid: 04366674b05e35c4ebe81807e95e8c1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spiegelruit
+    second: {fileID: 2100000, guid: 16e170ce75ebb16498092862919b3f40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toren
+    second: {fileID: 2100000, guid: 042de91e631323e4591a9dd444485659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torensmal
+    second: {fileID: 2100000, guid: ba88d81d2baff14438733fd48ef3f89a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torensmal2
+    second: {fileID: 2100000, guid: 35841beb77131af4c9fe073e523ce66c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tussenraam
+    second: {fileID: 2100000, guid: 788afaaebf7475346bdd701aa04e535b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: voor1everdiepzuid
+    second: {fileID: 2100000, guid: 7a6bb9c169aae844d8ad27805eb5ecf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: voor1everdnoord
+    second: {fileID: 2100000, guid: 84ab00486a74ea7468ba608bcb88fce4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: voor1everdnoord1_
+    second: {fileID: 2100000, guid: 55e96d1cf01708246b185ff151b91347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: voornoordbeneden
+    second: {fileID: 2100000, guid: ee29e2fb2e23f9245ac4fdfd20f15edc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zijkantmuurZ
+    second: {fileID: 2100000, guid: fd181b29caef8144992ae256c8714bb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zijraampje
+    second: {fileID: 2100000, guid: 79a4414e829080d4cb93a0702c3688e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zijraampjeklein
+    second: {fileID: 2100000, guid: 70255f3ae6b7ae944a6687eeb2f845a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zijraampjezijkant
+    second: {fileID: 2100000, guid: 6f5abd1684df38149b3fd81819bc8b09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zijraampjonderkant
+    second: {fileID: 2100000, guid: 9584a589f18b6c7428fb61d7f5cf77df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zuid4
+    second: {fileID: 2100000, guid: 17e998f314ad3ee46aca95346e88d69d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.001
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
